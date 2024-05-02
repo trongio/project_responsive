@@ -344,7 +344,7 @@ header .header .menu ul li a {
 }
 
 .demo {
-  background-image: url(/images/bg-1.png);
+  background-image: url(images/bg-1.png);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -448,7 +448,7 @@ header .header .menu ul li a {
 }
 
 .demo-2 {
-  background-image: url(/images/bg-2.png);
+  background-image: url(images/bg-2.png);
   background-attachment: fixed;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -626,7 +626,7 @@ header .header .menu ul li a {
 }
 
 .awards .awards_1 .movie {
-  background-image: url(/images/bg-5.png);
+  background-image: url(images/bg-5.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -661,13 +661,13 @@ header .header .menu ul li a {
 }
 
 .awards_2 .awards_1 .movie {
-  background-image: url(/images/bg-2.png);
+  background-image: url(images/bg-2.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .subscribe {
-  background-image: url(/images/bg-3.png);
+  background-image: url(images/bg-3.png);
   background-attachment: fixed;
   background-position: bottom;
   background-repeat: no-repeat;
